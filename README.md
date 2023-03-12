@@ -1,3 +1,1 @@
-# ShixinChen.github.io
-
-This is my personal website.
+Zhen's Homepage.
