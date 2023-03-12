@@ -7,23 +7,21 @@
 Zhen Zhuang, Ph.D. Student \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
-Supervisor: [Prof. Tsung-Yi Ho]
+Supervisor: Prof. Tsung-Yi Ho\n
+Email: zhuangzhen1995@gmail.com
 ~~~
 
 == Biography
 I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
-under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
-Previously, I received my B.S. in the Department of Computer Science and Technology from [http://www.hust.edu.cn Huazhong University of Science and Technology (HUST)] in 2020.
-My Chinese name is 刘思婷.
-
-== Contact
-Email: lusicaliu@outlook.com \n
-[https://github.com/Lusica1031 Github]
+under the supervision of Prof. Tsung-Yi Ho since Fall 2021.
 
 == Research Interest
-- Machine Learning in EDA
-- Placement and Routing Optimization
-- GPU Acceleration
+Electronic Design Automation (EDA)
+- EDA for 2.5D/3D Packaging
+- Physical Design Automation
+- AI for EDA
+Computer Architecture
+- Chiplet Architecture Exploration
 
 == Publication
 === Conference papers
