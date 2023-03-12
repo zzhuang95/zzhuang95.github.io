@@ -7,15 +7,15 @@
 Zhen Zhuang, Ph.D. Student \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
-Supervisor: Prof. Tsung-Yi Ho\n
+Supervisor: Prof. [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Tsung-Yi Ho]\n
 Email: zhuangzhen1995@gmail.com
 ~~~
 
 == Biography
 I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
-under the supervision of Prof. Tsung-Yi Ho since Fall 2021.
+under the supervision of Prof. [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Tsung-Yi Ho] since Fall 2021.
 
-== Research Interest
+== Research Interests
 Electronic Design Automation (EDA)
 - EDA for 2.5D/3D Packaging
 - Physical Design Automation
@@ -24,8 +24,8 @@ Electronic Design Automation (EDA)
 Computer Architecture
 - Chiplet Architecture Exploration
 
-== Selected Publications
-=== Conference papers
+== Publications
+=== Conference Papers
 - \[1\] *Zhen Zhuang*, Bei Yu, Kai-Yuan Chao, and Tsung-Yi Ho, “Multi-Package Co-Design for Chiplet Integration,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), no. 114, pp. 1-9, 2022.
 - \[2\] *Zhen Zhuang*, Genggeng Liu, Tsung-Yi Ho, Bei Yu, and Wenzhong Guo, “TRADER: A Practical Track-Assignment-Based Detailed Router”, in Proceedings of IEEE/ACM Design, Automation and Test in Europe (*DATE*), pp. 766-771, 2022.
 - \[3\] Yidan Jing, Liliang Yang, *Zhen Zhuang*, Genggeng Liu, Xing Huang, Wen-Hao Liu, and Ting-Chi Wang, “SPTA: A Scalable Parallel ILP-Based Track Assignment Algorithm with Two-Stage Partition,” in Proceedings of IFIP/IEEE International Conference on Very Large Scale Integration (*VLSI-SoC*), pp. 1-6, 2022.
@@ -33,8 +33,9 @@ Computer Architecture
 - \[5\] Xinghai Zhang, *Zhen Zhuang*, Genggeng Liu, Xing Huang, Wen-Hao Liu, Wenzhong Guo, and Ting-Chi Wang, “MiniDelay: Multi-Strategy Timing-Aware Layer Assignment for Advanced Technology Nodes”, in Proceedings of IEEE/ACM Design, Automation and Test in Europe (*DATE*), pp. 586-591, 2020.
 - \[6\] *Zhen Zhuang*, Genggeng Liu, Xing Huang, Xiaotao Jia, Wen-Hao Liu, and Wenzhong Guo, “MSFRoute: Multi-Stage FPGA Routing for Timing Division Multiplexing Technique”, in Proceedings of ACM Great Lakes Symposium on VLSI (*GLSVLSI*), pp. 107-112, 2020.
 - \[7\] Genggeng Liu, *Zhen Zhuang*, Wenzhong Guo, and Ting-Chi Wang, “RDTA: An Efficient Routability-Driven Track Assignment Algorithm”, in Proceedings of ACM Great Lakes Symposium on VLSI (*GLSVLSI*), pp. 315-318, 2019.
+- \[8\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution”, in Proceedings of ICNC-FSKD, pp. 433-442, 2019.
 
-=== Journal papers
+=== Journal Papers
 - \[1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT”, Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 - \[2\] Genggeng Liu, Weida Zhu, Saijuan Xu, *Zhen Zhuang*, Yeh-Cheng Chen, and Guolong Chen, “Efficient VLSI Routing Algorithm Employing Novel Discrete PSO and Multi-Stage Transformation”, Journal of Ambient Intelligence and Humanized Computing, 2020.
 
