@@ -1,53 +1,79 @@
-# jemdoc: addcss{jemdoc.css}
-# jemdoc: addcss{myMiddle.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
 # jemdoc: nofooter
-= Shixin CHEN
 
 ~~~
-{}{img_left}{shixin.jpg}{150}{150}{Shixin CHEN}
-Shixin Chen, Ph.D. Student \n
+{}{img_left}{zzhuang.jpg}{150}{150}{Zhen Zhuang}
+Zhen Zhuang, Ph.D. Student \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
-Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
+Supervisor: [Prof. Tsung-Yi Ho]
 ~~~
 
 == Biography
-I am currently an undergraduate (senior) at [https://ese.nju.edu.cn/ese_en/main.htm the School of Electronic Science and Engineering], [https://www.nju.edu.cn/EN/ Nanjing University]. Next year, I am going to pursue my Ph.D. at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], 
-under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2022. 
+I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
+Previously, I received my B.S. in the Department of Computer Science and Technology from [http://www.hust.edu.cn Huazhong University of Science and Technology (HUST)] in 2020.
+My Chinese name is 刘思婷.
 
 == Contact
-Email: shixinchen@smail.nju.edu.cn \n
-[https://github.com/ShixinChen1999 Github]
-[https://www.linkedin.com/in/%E6%97%B6%E9%91%AB-%E9%99%88-163401217/ Linkedin]
+Email: lusicaliu@outlook.com \n
+[https://github.com/Lusica1031 Github]
 
 == Research Interest
-- Harware&Software Co-design
 - Machine Learning in EDA
-- Artificial Intelligence
+- Placement and Routing Optimization
+- GPU Acceleration
 
 == Publication
-#- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
-#
-#- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
-#
-#- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021. *(Best Paper Nomination)*
-#
-#- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
-#
-#- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021. (Invited Paper)
-#
-#- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021.
+=== Conference papers
+- \[C9\] *Siting Liu*\*, Ziyi Wang\*, Fangzhou Liu, Yibo Lin, Bei Yu, Martin Wong, “Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023.
 
-Does not have temporarily, diligently!
+- \[C8\] Ziyi Wang\*, *Siting Liu*\*, Yuan Pu, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023.
+
+- \[C7\] Su Zheng, Lancheng Zou, *Siting Liu*, Yibo Lin, Bei Yu, Martin Wong, “Mitigating Distribution Shift for Congestion Optimization in Global Placement”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023.
+
+- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022. *(Best Paper Award)*
+
+- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022.
+
+- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. *(Best Paper Award Nomination)*
+
+- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021.
+
+- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021. (Invited Paper)
+
+- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021.
+
+=== Journal papers
+- \[J3\] Peiyu Liao, Dawei Guo, Zizheng Guo, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, "DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
+
+- \[J2\] *Siting Liu*, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, "FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
+
+- \[J1\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jianli Chen, Hao Yu, Bei Yu, "Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 27, no. 4, 2022.
+
+#Does not have temporarily, diligently!
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
-  since Aug 2022 (expected) 
-- B.S.  (Elite class), Microelectronic Science and Engineering (VLSI Design and System Integration),
-  [https://www.nju.edu.cn/EN/ Nanjing University(NJU)], Sept 2018 - June 2022
+  Aug 2020 - present
+- B.S.  (ACM class), Computer Science and Technology,
+  [http://www.hust.edu.cn Huazhong University of Science and Technology(HUST)], Sept 2016 - June 2020
+
+== Teaching
+- CSCI1540, 2020-R1,    Introduction to Computing Using C\+\+
+- CSCI4120, 2020-R2,    Principles of Computer Game Software
+- CSCI1130, 2021-R1,    Introduction to Computing Using Java
+- CSCI1530, 2021-R2,    Computer Principles and Java Programming
 
 == Awards
-- National Scholarship, 	Education Ministry, PRC, 	2019
-- National Encouragement Scholarship, 	Education Ministry, PRC, 	2020 2021
-- The Special Top-Grade Scholarship (栋梁特等奖学金), 	NJU, 	2019
+- Best Paper Award, DATE, 2022
+- Best Paper Award Nomination,  DATE,   2021
+- Full Postgraduate Studentship, 	CUHK, 	2020-2024
+- Outstanding Graduate, 	HUST, 	2020
+- CCF Elite Collegiate Student Award, 	CCF, 	2019
+- National Encouragement Scholarship, 	HUST, 	2017 2018 2019
+- First Prize in Mathematics competition of Chinese College Students, 	CMS, 	2017
 
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=QGW25KQ8MaU7zwbQXSMND-9LftuITB9SyrkqhM00Hjg"></script>
