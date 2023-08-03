@@ -30,7 +30,7 @@ Computer Architecture
 
 == Publications
 === Conference Papers
-- \[C9\] *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin Wong, “Multi-Product Optimization for 3D Heterogeneous Integration with D2W Bonding,” accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2023.
+- \[C9\] *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D.F. Wong, “Multi-Product Optimization for 3D Heterogeneous Integration with D2W Bonding,” accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2023.
 
 - \[C8\] *Zhen Zhuang*, Bei Yu, Kai-Yuan Chao, and Tsung-Yi Ho, “Multi-Package Co-Design for Chiplet Integration,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), no. 114, pp. 1-9, 2022.
 
@@ -60,12 +60,12 @@ Computer Architecture
 
 == Experience
 Research Assistant | [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua University]
-- Physical Design Automation
+- Topic: Physical Design Automation
 - Supervisor: Prof. [http://www.cs.nthu.edu.tw/~tcwang/ Ting-Chi Wang]
 - Jul. 2019 - Aug. 2019
 
 Research Assistant | [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua University]
-- Physical Design Automation
+- Topic: Physical Design Automation
 - Supervisor: Prof. [http://www.cs.nthu.edu.tw/~tcwang/ Ting-Chi Wang]
 - Apr. 2018 - Jun. 2018
 
@@ -75,6 +75,7 @@ Research Assistant | [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua Unive
 - Integration, the VLSI Journal
 
 == Teaching Assistant
+- Fall 2023: ENGG2440A Discrete Mathematics for Engineers
 - Spring 2023: CENG5270 EDA for Physical Design of Digital Systems
 - Fall 2022: ENGG2440A Discrete Mathematics for Engineers
 - Spring 2022: CSCI3180 Principles of Programming Languages
