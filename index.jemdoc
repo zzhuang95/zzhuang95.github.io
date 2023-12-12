@@ -49,6 +49,8 @@ Computer Architecture
 - \[C1\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
+- \[J3\] Shixin Chen, Shanyi Li, *Zhen Zhuang*, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, and Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
+
 - \[J2\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 
 - \[J1\] Genggeng Liu, Weida Zhu, Saijuan Xu, *Zhen Zhuang*, Yeh-Cheng Chen, and Guolong Chen, “Efficient VLSI Routing Algorithm Employing Novel Discrete PSO and Multi-Stage Transformation,” Journal of Ambient Intelligence and Humanized Computing, 2020.
@@ -73,11 +75,11 @@ Computer Architecture
 
 == Professional Service
 === Journal Reviewer
-- ACM Transactions on Design Automation of Electronic Systems (TODAES)
+- ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
 - Integration, the VLSI Journal
 
 === Conference Reviewer
-- ACM International Symposium on Physical Design (ISPD), 2024.
+- ACM International Symposium on Physical Design (*ISPD*), 2024.
 
 == Teaching Assistant
 - Fall 2023: ENGG2440A Discrete Mathematics for Engineers
