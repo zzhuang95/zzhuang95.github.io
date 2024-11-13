@@ -1,11 +1,9 @@
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myMiddle.css}
 # jemdoc: nofooter
-
-~~~
-{}{img_left}{zzhuang.jpg}{150}{150}{Zhen Zhuang}
-
-== Zhen Zhuang
+# jemdoc: title{Zhen Zhuang}
+{{<p><img src="zzhuang.jpg" width=150px align="left" style=""/></p>}}
+= Zhen Zhuang
 
 \n*Ph.D. Candidate*\n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
@@ -14,14 +12,13 @@
 *Email*: zhuangzhen1995@gmail.com
 
 [https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en Google Scholar]
-~~~
 
 == Biography
-I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. I am also a visiting scholar at the Georgia Institute of Technology under the supervision of Prof. Sung Kyu Lim. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. My current research interest is electronic design automation (EDA), especially EDA for 2.5D/3D packaging.
+I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung-Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 2.5D/3D IC.
 
 == Research Interests
 Electronic Design Automation (EDA)
-- EDA for 2.5D/3D Packaging
+- EDA for 2.5D/3D IC
 - Physical Design Automation
 - AI for EDA
 
@@ -30,6 +27,10 @@ Computer Architecture
 
 == Publications
 === Conference Papers
+- \[C11\] Zheng Yang, *Zhen Zhuang*, Bei Yu, Tsung-Yi Ho, Martin D.F. Wong, and Sung Kyu Lim, “ML-Based Fine-Grained Modeling of DC Current Crowding in Power Delivery TSVs for Face-to-Face 3D ICs,” accepted by ACM International Symposium on Physical Design (*ISPD*), 2025.
+
+- \[C10\] *Zhen Zhuang*, Quan Chen, Hao Yu, and Tsung-Yi Ho, “Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Integration,” accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2025. (*Invited Paper*)
+
 - \[C9\] *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D.F. Wong, “Multi-Product Optimization for 3D Heterogeneous Integration with D2W Bonding,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 1-9, 2023.
 
 - \[C8\] *Zhen Zhuang*, Bei Yu, Kai-Yuan Chao, and Tsung-Yi Ho, “Multi-Package Co-Design for Chiplet Integration,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), no. 114, pp. 1-9, 2022.
@@ -49,11 +50,11 @@ Computer Architecture
 - \[C1\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
-- \[J3\] Shixin Chen, Shanyi Li, *Zhen Zhuang*, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, and Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
+- \[J3\] Shixin Chen, Shanyi Li, *Zhen Zhuang*, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, and Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 6, pp. 1638–1649, 2024.
 
-- \[J2\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
+- \[J2\] Genggeng Liu, Yuhan Zhu, *Zhen Zhuang*, Zhenyu Pei, Min Gan, Xing Huang, and Wenzhong Guo, “A Robust Multilayer X-Architecture Global Routing System Based on Particle Swarm Optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 54, no. 9, pp. 5627-5640, 2024.
 
-- \[J1\] Genggeng Liu, Weida Zhu, Saijuan Xu, *Zhen Zhuang*, Yeh-Cheng Chen, and Guolong Chen, “Efficient VLSI Routing Algorithm Employing Novel Discrete PSO and Multi-Stage Transformation,” accepted by Journal of Ambient Intelligence and Humanized Computing, 2020.
+- \[J1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 
 == Education
 - Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug. 2021 - Present
@@ -62,10 +63,10 @@ Computer Architecture
 
 == Experience
 === [https://www.gatech.edu/ Georgia Institute of Technology]
-- Visiting Scholar, School of Electrical and Computer Engineering
+- Visiting Student, School of Electrical and Computer Engineering
 - Topic: Circuit Design Automation for Heterogeneous Integration
 - Supervisor: Prof. [https://limsk.ece.gatech.edu/ Sung Kyu Lim]
-- Mar. 2024 - Present
+- Mar. 2024 - Aug. 2024
 
 === [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua University (NTHU)]
 - Visiting Student, Department of Computer Science
@@ -81,11 +82,12 @@ Computer Architecture
 
 == Professional Service
 === Journal Reviewer
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 - ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
 - Integration, the VLSI Journal
 
 === Conference Reviewer
-- ACM International Symposium on Physical Design (*ISPD*), 2024.
+- ACM International Symposium on Physical Design (*ISPD*), 2024, 2025.
 
 == Teaching Assistant
 - Fall 2023: ENGG2440A Discrete Mathematics for Engineers
