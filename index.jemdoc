@@ -1,0 +1,110 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: nofooter
+# jemdoc: title{Zhen Zhuang}
+{{<p><img src="zzhuang.jpg" width=150px align="left" style=""/></p>}}
+= Zhen Zhuang
+
+\n*Ph.D. Candidate*\n
+[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
+[https://cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]\n
+*Supervisor*: Prof. [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Tsung-Yi Ho]\n
+*Email*: zhuangzhen1995@gmail.com
+
+[https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en Google Scholar]
+
+== Biography
+I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 2.5D/3D IC.
+
+== Research Interests
+Electronic Design Automation (EDA)
+- EDA for 2.5D/3D IC
+- Physical Design Automation
+- AI for EDA
+
+Computer Architecture
+- Chiplet Architecture Exploration
+
+== Publications
+=== Conference Papers
+- \[C12\] Jiawei Hu, Pruek Vanna-iampikul, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "GNN-MLS: Signal Routing in Mixed-Node 3D ICs through GNN-Assisted Metal Layer Sharing," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2025.
+
+- \[C11\] Zheng Yang, *Zhen Zhuang*, Bei Yu, Tsung-Yi Ho, Martin D.F. Wong, and Sung Kyu Lim, “ML-Based Fine-Grained Modeling of DC Current Crowding in Power Delivery TSVs for Face-to-Face 3D ICs,” accepted by ACM International Symposium on Physical Design (*ISPD*), 2025.
+
+- \[C10\] *Zhen Zhuang*, Quan Chen, Hao Yu, and Tsung-Yi Ho, “Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Integration,” in Proceedings of IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), pp. 279-284, 2025. (*Invited Paper*)
+
+- \[C9\] *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D.F. Wong, “Multi-Product Optimization for 3D Heterogeneous Integration with D2W Bonding,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 1-9, 2023.
+
+- \[C8\] *Zhen Zhuang*, Bei Yu, Kai-Yuan Chao, and Tsung-Yi Ho, “Multi-Package Co-Design for Chiplet Integration,” in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), no. 114, pp. 1-9, 2022.
+
+- \[C7\] *Zhen Zhuang*, Genggeng Liu, Tsung-Yi Ho, Bei Yu, and Wenzhong Guo, “TRADER: A Practical Track-Assignment-Based Detailed Router,” in Proceedings of IEEE/ACM Design, Automation and Test in Europe (*DATE*), pp. 766-771, 2022.
+
+- \[C6\] Yidan Jing, Liliang Yang, *Zhen Zhuang*, Genggeng Liu, Xing Huang, Wen-Hao Liu, and Ting-Chi Wang, “SPTA: A Scalable Parallel ILP-Based Track Assignment Algorithm with Two-Stage Partition,” in Proceedings of IFIP/IEEE International Conference on Very Large Scale Integration (*VLSI-SoC*), pp. 1-6, 2022.
+
+- \[C5\] *Zhen Zhuang*, Xing Huang, Genggeng Liu, Wenzhong Guo, Weikang Qian, and Wen-Hao Liu, “ALIFRouter: A Practical Architecture-Level Inter-FPGA Router for Logic Verification,” in Proceedings of IEEE/ACM Design, Automation and Test in Europe (*DATE*), pp. 1570-1573, 2021.
+
+- \[C4\] Xinghai Zhang, *Zhen Zhuang*, Genggeng Liu, Xing Huang, Wen-Hao Liu, Wenzhong Guo, and Ting-Chi Wang, “MiniDelay: Multi-Strategy Timing-Aware Layer Assignment for Advanced Technology Nodes,” in Proceedings of IEEE/ACM Design, Automation and Test in Europe (*DATE*), pp. 586-591, 2020.
+
+- \[C3\] *Zhen Zhuang*, Genggeng Liu, Xing Huang, Xiaotao Jia, Wen-Hao Liu, and Wenzhong Guo, “MSFRoute: Multi-Stage FPGA Routing for Timing Division Multiplexing Technique,” in Proceedings of ACM Great Lakes Symposium on VLSI (*GLSVLSI*), pp. 107-112, 2020.
+
+- \[C2\] Genggeng Liu, *Zhen Zhuang*, Wenzhong Guo, and Ting-Chi Wang, “RDTA: An Efficient Routability-Driven Track Assignment Algorithm,” in Proceedings of ACM Great Lakes Symposium on VLSI (*GLSVLSI*), pp. 315-318, 2019.
+
+- \[C1\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
+
+=== Journal Papers
+- \[J4\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+
+- \[J3\] Shixin Chen, Shanyi Li, *Zhen Zhuang*, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, and Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 6, pp. 1638–1649, 2024.
+
+- \[J2\] Genggeng Liu, Yuhan Zhu, *Zhen Zhuang*, Zhenyu Pei, Min Gan, Xing Huang, and Wenzhong Guo, “A Robust Multilayer X-Architecture Global Routing System Based on Particle Swarm Optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 54, no. 9, pp. 5627-5640, 2024.
+
+- \[J1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
+
+== Education
+- Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug. 2021 - Present
+- M.E., College of Mathematics and Computer Science, Fuzhou University (FZU), Sep. 2018 - Mar. 2021
+- B.E., College of Mathematics and Computer Science, Fuzhou University (FZU), Sep. 2014 - Jul. 2018
+
+== Experience
+=== [https://www.gatech.edu/ Georgia Institute of Technology]
+- Visiting Student, School of Electrical and Computer Engineering
+- Topic: Circuit Design Automation for Heterogeneous Integration
+- Supervisor: Prof. [https://limsk.ece.gatech.edu/ Sung Kyu Lim]
+- Mar. 2024 - Aug. 2024
+
+=== [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua University (NTHU)]
+- Visiting Student, Department of Computer Science
+- Topic: Physical Design Automation
+- Supervisor: Prof. [http://www.cs.nthu.edu.tw/~tcwang/ Ting-Chi Wang]
+- Jul. 2019 - Aug. 2019
+
+=== [https://nthu-en.site.nthu.edu.tw/ National Tsing Hua University (NTHU)]
+- Visiting Student, Department of Computer Science
+- Topic: Physical Design Automation
+- Supervisor: Prof. [http://www.cs.nthu.edu.tw/~tcwang/ Ting-Chi Wang]
+- Apr. 2018 - Jun. 2018
+
+== Professional Service
+=== Journal Reviewer
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
+- Integration, the VLSI Journal
+
+=== Conference Reviewer
+- ACM International Symposium on Physical Design (*ISPD*), 2024, 2025.
+
+== Teaching Assistant
+- Fall 2023: ENGG2440A Discrete Mathematics for Engineers
+- Spring 2023: CENG5270 EDA for Physical Design of Digital Systems
+- Fall 2022: ENGG2440A Discrete Mathematics for Engineers
+- Spring 2022: CSCI3180 Principles of Programming Languages
+- Fall 2021: ENGG2440A Discrete Mathematics for Engineers
+
+== Selected Awards and Honors
+- Full Postgraduate Studentship, CUHK, 2021-2025
+- Outstanding Master Thesis Award, FZU, 2021
+- Third Place Award at ISPD Contest, ISPD, 2019
+- Honorable Mention Award at CAD Contest, ICCAD, 2019
+- Third Place Award at ISPD Contest, ISPD, 2018
+- Outstanding Bachelor Thesis Award, FZU, 2018
