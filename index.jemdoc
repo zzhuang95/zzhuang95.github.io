@@ -14,11 +14,12 @@
 [https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en Google Scholar]
 
 == Biography
-I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 2.5D/3D IC.
+I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 3D IC and advanced packaging.
 
 == Research Interests
 Electronic Design Automation (EDA)
-- EDA for 2.5D/3D IC
+- EDA for 3D IC
+- EDA for Advanced Packaging
 - Physical Design Automation
 - AI for EDA
 
@@ -29,7 +30,7 @@ Computer Architecture
 === Conference Papers
 - \[C12\] Jiawei Hu, Pruek Vanna-iampikul, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "GNN-MLS: Signal Routing in Mixed-Node 3D ICs through GNN-Assisted Metal Layer Sharing," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2025.
 
-- \[C11\] Zheng Yang, *Zhen Zhuang*, Bei Yu, Tsung-Yi Ho, Martin D.F. Wong, and Sung Kyu Lim, “ML-Based Fine-Grained Modeling of DC Current Crowding in Power Delivery TSVs for Face-to-Face 3D ICs,” accepted by ACM International Symposium on Physical Design (*ISPD*), 2025.
+- \[C11\] Zheng Yang, *Zhen Zhuang*, Bei Yu, Tsung-Yi Ho, Martin D.F. Wong, and Sung Kyu Lim, “ML-Based Fine-Grained Modeling of DC Current Crowding in Power Delivery TSVs for Face-to-Face 3D ICs,” in Proceedings of ACM International Symposium on Physical Design (*ISPD*), pp. 233-241, 2025.
 
 - \[C10\] *Zhen Zhuang*, Quan Chen, Hao Yu, and Tsung-Yi Ho, “Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Integration,” in Proceedings of IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), pp. 279-284, 2025. (*Invited Paper*)
 
@@ -52,11 +53,13 @@ Computer Architecture
 - \[C1\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
+- \[J5\] Haoyang Xu, Xing Huang, *Zhen Zhuang*, Zhiwen Yu, Bin Guo, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D. F. Wong, "Hierarchical Partitioning-Based Inter-Chip Redistribution Layer Routing for Fan-Out Wafer-Level Packaging," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
 - \[J4\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 - \[J3\] Shixin Chen, Shanyi Li, *Zhen Zhuang*, Su Zheng, Zheng Liang, Tsung-Yi Ho, Bei Yu, and Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 6, pp. 1638–1649, 2024.
 
-- \[J2\] Genggeng Liu, Yuhan Zhu, *Zhen Zhuang*, Zhenyu Pei, Min Gan, Xing Huang, and Wenzhong Guo, “A Robust Multilayer X-Architecture Global Routing System Based on Particle Swarm Optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 54, no. 9, pp. 5627-5640, 2024.
+- \[J2\] Genggeng Liu, Yuhan Zhu, *Zhen Zhuang*, Zhenyu Pei, Min Gan, Xing Huang, and Wenzhong Guo, “A Robust Multilayer X-Architecture Global Routing System Based on Particle Swarm Optimization,” IEEE Transactions on Systems, Man, and Cybernetics: Systems (*TSMC*), vol. 54, no. 9, pp. 5627-5640, 2024.
 
 - \[J1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 
@@ -87,7 +90,7 @@ Computer Architecture
 == Professional Service
 === Journal Reviewer
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (*TSMC*)
 - ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
 - Integration, the VLSI Journal
 
