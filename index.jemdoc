@@ -28,6 +28,10 @@ Computer Architecture
 
 == Publications
 === Conference Papers
+- \[C14\] Shanyi Li, *Zhen Zhuang*, Siyuan Liang, Bei Yu, and Tsung-Yi Ho, "MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
+
+- \[C13\] Leilei Jin, Rongliang Fu, *Zhen Zhuang*, Liang Xiao, Fangzhou Liu, Bei Yu, and Tsung-Yi Ho, "ChronoTE: Crosstalk-Aware Timing Estimation for Routing Optimization via Edge-Enhanced GNNs," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
+
 - \[C12\] Jiawei Hu, Pruek Vanna-iampikul, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "GNN-MLS: Signal Routing in Mixed-Node 3D ICs through GNN-Assisted Metal Layer Sharing," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2025.
 
 - \[C11\] Zheng Yang, *Zhen Zhuang*, Bei Yu, Tsung-Yi Ho, Martin D.F. Wong, and Sung Kyu Lim, “ML-Based Fine-Grained Modeling of DC Current Crowding in Power Delivery TSVs for Face-to-Face 3D ICs,” in Proceedings of ACM International Symposium on Physical Design (*ISPD*), pp. 233-241, 2025.
