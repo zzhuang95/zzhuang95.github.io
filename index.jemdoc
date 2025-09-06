@@ -5,16 +5,15 @@
 {{<p><img src="zzhuang.jpg" width=150px align="left" style=""/></p>}}
 = Zhen Zhuang
 
-\n*Ph.D. Candidate*\n
+\n*Postdoctoral Fellow*\n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [https://cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]\n
-*Supervisor*: Prof. [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Tsung-Yi Ho]\n
 *Email*: zhuangzhen1995@gmail.com
 
 [https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en Google Scholar]
 
 == Biography
-I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tsung-Yi Ho since Fall 2021. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 3D IC and advanced packaging.
+I am currently a Postdoctoral Fellow at the Chinese University of Hong Kong (CUHK) under the supervision of Prof. Tsung-Yi Ho. I obtained my Ph.D. from the Chinese University of Hong Kong (CUHK) in 2025 under the supervision of Prof. Tsung-Yi Ho. Previously, I received my M.Eng. and B.Eng. from Fuzhou University in 2021 and 2018, respectively. I am grateful for the chance to visit Georgia Tech under the supervision of Prof. Sung Kyu Lim and NTHU under the supervision of Prof. Ting-Chi Wang. My current research interest is mainly in Electronic Design Automation (EDA), especially EDA for 3D IC and advanced packaging.
 
 == Research Interests
 Electronic Design Automation (EDA)
@@ -28,6 +27,12 @@ Computer Architecture
 
 == Publications
 === Conference Papers
+- \[C17\] *Zhen Zhuang*, Zheng Yang, Yuxuan Zhao, Jiawei Hu, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho, "DPO-3D: Differentiable Power Delivery Network Optimization via Flexible Modeling for Routability and IR-Drop Tradeoff in Face-to-Face 3D ICs," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+
+- \[C16\] Zheng Yang, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "Graph Attention-Based Current Crowding Analysis at TSV Interfaces in 3D Power Delivery Networks," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+
+- \[C15\] Shuo Ren, *Zhen Zhuang*, Rongliang Fu, Leilei Jin, Libo Shen, Bei Yu, and Tsung-Yi Ho, "Partitioning-Free 3D-IC Floorplanning," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+
 - \[C14\] Shanyi Li, *Zhen Zhuang*, Siyuan Liang, Bei Yu, and Tsung-Yi Ho, "MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
 
 - \[C13\] Leilei Jin, Rongliang Fu, *Zhen Zhuang*, Liang Xiao, Fangzhou Liu, Bei Yu, and Tsung-Yi Ho, "ChronoTE: Crosstalk-Aware Timing Estimation for Routing Optimization via Edge-Enhanced GNNs," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
@@ -54,7 +59,7 @@ Computer Architecture
 
 - \[C2\] Genggeng Liu, *Zhen Zhuang*, Wenzhong Guo, and Ting-Chi Wang, “RDTA: An Efficient Routability-Driven Track Assignment Algorithm,” in Proceedings of ACM Great Lakes Symposium on VLSI (*GLSVLSI*), pp. 315-318, 2019.
 
-- \[C1\]	Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
+- \[C1\] Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, “X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution,” in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
 - \[J7\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
@@ -72,11 +77,16 @@ Computer Architecture
 - \[J1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, “A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT,” Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 
 == Education
-- Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug. 2021 - Present
+- Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug. 2021 - Jul. 2025
 - M.E., College of Mathematics and Computer Science, Fuzhou University (FZU), Sep. 2018 - Mar. 2021
 - B.E., College of Mathematics and Computer Science, Fuzhou University (FZU), Sep. 2014 - Jul. 2018
 
 == Experience
+=== [https://cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]
+- Postdoctoral Fellow, Department of Computer Science and Engineering
+- Supervisor: Prof. [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Tsung-Yi Ho]
+- Aug. 2025 - Present
+
 === [https://www.gatech.edu/ Georgia Institute of Technology]
 - Visiting Student, School of Electrical and Computer Engineering
 - Topic: Circuit Design Automation for Heterogeneous Integration
@@ -103,6 +113,7 @@ Computer Architecture
 - Integration, the VLSI Journal
 
 === Conference Reviewer
+- IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
 - ACM International Symposium on Physical Design (*ISPD*), 2024, 2025.
 
 == Teaching Assistant
