@@ -37,9 +37,9 @@ Computer Architecture
 
 - \[C15\] Shuo Ren, *Zhen Zhuang*, Rongliang Fu, Leilei Jin, Libo Shen, Bei Yu, and Tsung-Yi Ho, "Partitioning-Free 3D-IC Floorplanning," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
 
-- \[C14\] Shanyi Li, *Zhen Zhuang*, Siyuan Liang, Bei Yu, and Tsung-Yi Ho, "MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
+- \[C14\] Shanyi Li, *Zhen Zhuang*, Siyuan Liang, Bei Yu, and Tsung-Yi Ho, "MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration," in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 1-9, 2025.
 
-- \[C13\] Leilei Jin, Rongliang Fu, *Zhen Zhuang*, Liang Xiao, Fangzhou Liu, Bei Yu, and Tsung-Yi Ho, "ChronoTE: Crosstalk-Aware Timing Estimation for Routing Optimization via Edge-Enhanced GNNs," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2025.
+- \[C13\] Leilei Jin, Rongliang Fu, *Zhen Zhuang*, Liang Xiao, Fangzhou Liu, Bei Yu, and Tsung-Yi Ho, "ChronoTE: Crosstalk-Aware Timing Estimation for Routing Optimization via Edge-Enhanced GNNs," in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 1-9, 2025.
 
 - \[C12\] Jiawei Hu, Pruek Vanna-iampikul, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "GNN-MLS: Signal Routing in Mixed-Node 3D ICs through GNN-Assisted Metal Layer Sharing," in Proceedings of ACM/IEEE Design Automation Conference (*DAC*), pp. 1-7, 2025.
 
@@ -66,11 +66,13 @@ Computer Architecture
 - \[C1\] Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, "X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution," in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
-- \[J7\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," accepted by IEEE Transactions on Computers (*TC*).
 
-- \[J6\] Siyuan Liang, *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, and Tsung-Yi Ho, "Multi-Layer Package Power/Ground Planes Synthesis with Balanced DC IR Drops: A Game-Theoretic Optimization Approach," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J7\] Siyuan Liang, *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, and Tsung-Yi Ho, "Multi-Layer Package Power/Ground Planes Synthesis with Balanced DC IR Drops: A Game-Theoretic Optimization Approach," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
-- \[J5\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+- \[J6\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+
+- \[J5\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 428-440, 2026.
 
 - \[J4\] Haoyang Xu, Xing Huang, *Zhen Zhuang*, Zhiwen Yu, Bin Guo, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D. F. Wong, "Hierarchical Partitioning-Based Inter-Chip Redistribution Layer Routing for Fan-Out Wafer-Level Packaging," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 11, pp. 4367-4380, 2025.
 
@@ -114,6 +116,7 @@ Computer Architecture
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (*TSMC*)
 - ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
+- Expert Systems with Applications
 - Integration, the VLSI Journal
 
 === Conference Reviewer
