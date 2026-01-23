@@ -68,11 +68,11 @@ Computer Architecture
 === Journal Papers
 - \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," accepted by IEEE Transactions on Computers (*TC*).
 
-- \[J7\] Siyuan Liang, *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, and Tsung-Yi Ho, "Multi-Layer Package Power/Ground Planes Synthesis with Balanced DC IR Drops: A Game-Theoretic Optimization Approach," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
-- \[J6\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+- \[J6\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 428-440, 2026.
 
-- \[J5\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 428-440, 2026.
+- \[J5\] Siyuan Liang, *Zhen Zhuang*, Kai-Yuan Chao, Bei Yu, and Tsung-Yi Ho, "Multi-Layer Package Power/Ground Planes Synthesis with Balanced DC IR Drops: A Game-Theoretic Optimization Approach," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 453-465, 2026.
 
 - \[J4\] Haoyang Xu, Xing Huang, *Zhen Zhuang*, Zhiwen Yu, Bin Guo, Kai-Yuan Chao, Bei Yu, Tsung-Yi Ho, and Martin D. F. Wong, "Hierarchical Partitioning-Based Inter-Chip Redistribution Layer Routing for Fan-Out Wafer-Level Packaging," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 11, pp. 4367-4380, 2025.
 
@@ -131,9 +131,7 @@ Computer Architecture
 - Fall 2021: ENGG2440A Discrete Mathematics for Engineers
 
 == Selected Awards and Honors
-- Full Postgraduate Studentship, CUHK, 2021-2025
-- Outstanding Master Thesis Award, FZU, 2021
+- Best Paper Award Nomination, ASPDAC, 2026
 - Third Place Award at ISPD Contest, ISPD, 2019
 - Honorable Mention Award at CAD Contest, ICCAD, 2019
 - Third Place Award at ISPD Contest, ISPD, 2018
-- Outstanding Bachelor Thesis Award, FZU, 2018
