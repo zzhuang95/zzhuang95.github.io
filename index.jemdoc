@@ -66,9 +66,11 @@ Computer Architecture
 - \[C1\] Hailin Wu, Saijuan Xu, *Zhen Zhuang*, and Genggeng Liu, "X-Architecture Steiner Minimal Tree Construction Based on Discrete Differential Evolution," in Proceedings of International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), pp. 433-442, 2019.
 
 === Journal Papers
+- \[J9\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Bentian Jiang, Weihua Sheng, and Tsung-Yi Ho, "Redistribution Layer Routing for Fan-Out Wafer-Level Packaging Considering Multiple Advanced Design Rules," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2026.
+
 - \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," accepted by IEEE Transactions on Computers (*TC*).
 
-- \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+- \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 3, pp. 47: 1-18, 2026.
 
 - \[J6\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 428-440, 2026.
 
