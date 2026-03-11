@@ -27,15 +27,27 @@ Computer Architecture
 
 == Publications
 === Conference Papers
+- \[C25\] Siyuan Liang, Shanyi Li, Leilei Jin, Yuan Pu, Yushen Zhang, *Zhen Zhuang*, Kai-Yuan Chao, Ulf Schlichtmann, and Tsung-Yi Ho, "BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power\/Ground Plane Synthesis," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
+- \[C24\] Leilei Jin, Haoyang Xu, Siyuan Liang, *Zhen Zhuang*, Zhou Hu, Zixiao Wang, Bei Yu, Rongmei Chen, and Tsung-Yi Ho, "BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
+- \[C23\] Shanyi Li, Leilei Jin, Siyuan Liang, *Zhen Zhuang*, Rongmei Chen, Bei Yu, and Tsung-Yi Ho, "FlexiCTS: CPPR-Aware 3D Clock Tree Synthesis for Face-to-Face Bonded ICs," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
+- \[C22\] Xiangqiao Meng, Siyuan Miao, Yiming Zhang, Min Gao, *Zhen Zhuang*, Wei W. Xing, Chen Wu, and Lei He, "PIANO: Physics-Informed Admittance Neural Operator for Fast Power Integrity Analysis," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
+- \[C21\] Haoyang Xu, Zheng Yang, *Zhen Zhuang*, Leilei Jin, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho, "RTL-3D: Timing-aware Tier Partitioning for 3D ICs Using Pre-synthesis Timing Analysis," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
+- \[C20\] Haoyang Xu, *Zhen Zhuang*, Leilei Jin, Zheng Yang, Chen Wu, Lei He, Sung Kyu Lim, and Tsung-Yi Ho, "Mixed-structure Double-sided Redistribution Layer Routing for Glass Interposer-based 5.5D ICs," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
+
 - \[C19\] Chenghan Wang, *Zhen Zhuang*, Kai Zhu, Darong Huang, Luis Costero, Rongmei Chen, David Atienza, and Tsung-Yi Ho, "ETLA-3D: Equivalent Thin Layer Aggregation based Thermal FEM for Hybrid Bonding F2F 3D ICs," accepted by IEEE/ACM Design, Automation and Test in Europe (*DATE*), 2026.
 
 - \[C18\] Zixiao Wang, Tianshu Hou, Chenghan Wang, *Zhen Zhuang*, Tsung-Yi Ho, Farzan Farnia, and Bei Yu, "FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis," accepted by IEEE/ACM Design, Automation and Test in Europe (*DATE*), 2026.
 
-- \[C17\] *Zhen Zhuang*, Zheng Yang, Yuxuan Zhao, Jiawei Hu, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho, "DPO-3D: Differentiable Power Delivery Network Optimization via Flexible Modeling for Routability and IR-Drop Tradeoff in Face-to-Face 3D ICs," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+- \[C17\] *Zhen Zhuang*, Zheng Yang, Yuxuan Zhao, Jiawei Hu, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho, "DPO-3D: Differentiable Power Delivery Network Optimization via Flexible Modeling for Routability and IR-Drop Tradeoff in Face-to-Face 3D ICs," in Proceedings of IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), pp. 1273-1279, 2026.
 
-- \[C16\] Zheng Yang, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "Graph Attention-Based Current Crowding Analysis at TSV Interfaces in 3D Power Delivery Networks," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026. (*Best Paper Award Nomination*)
+- \[C16\] Zheng Yang, *Zhen Zhuang*, Tsung-Yi Ho, and Sung Kyu Lim, "Graph Attention-Based Current Crowding Analysis at TSV Interfaces in 3D Power Delivery Networks," in Proceedings of IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), pp. 1386-1392, 2026. (*Best Paper Award Nomination*)
 
-- \[C15\] Shuo Ren, *Zhen Zhuang*, Rongliang Fu, Leilei Jin, Libo Shen, Bei Yu, and Tsung-Yi Ho, "Partitioning-Free 3D-IC Floorplanning," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+- \[C15\] Shuo Ren, *Zhen Zhuang*, Rongliang Fu, Leilei Jin, Libo Shen, Bei Yu, and Tsung-Yi Ho, "Partitioning-Free 3D-IC Floorplanning," in Proceedings of IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), pp. 1435-1441, 2026.
 
 - \[C14\] Shanyi Li, *Zhen Zhuang*, Siyuan Liang, Bei Yu, and Tsung-Yi Ho, "MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration," in Proceedings of IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 1-9, 2025.
 
@@ -68,7 +80,7 @@ Computer Architecture
 === Journal Papers
 - \[J9\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Bentian Jiang, Weihua Sheng, and Tsung-Yi Ho, "Redistribution Layer Routing for Fan-Out Wafer-Level Packaging Considering Multiple Advanced Design Rules," accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2026.
 
-- \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," accepted by IEEE Transactions on Computers (*TC*).
+- \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," IEEE Transactions on Computers (*TC*), vol. 75, no. 3, pp. 971-986, 2026.
 
 - \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 3, pp. 47: 1-18, 2026.
 
