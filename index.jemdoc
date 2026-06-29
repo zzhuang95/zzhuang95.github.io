@@ -26,6 +26,9 @@ Computer Architecture
 - Chiplet Architecture Exploration
 
 == Publications
+=== Selected Preprint
+- Chenghan Wang, *Zhen Zhuang*, Shui Jiang, Siyuan Liang, Xiaoman Yang, Kai Zhu, Darong Huang, Luis Costero, Rongmei Chen, Tsung-Wei Huang, David Atienza, and Tsung-Yi Ho, “CUTh-Solver: GPU-Accelerated Sparse Matrix Solver for High-Resolution Thermal Simulation of 3D ICs,” arXiv preprint arXiv:2606.17850.
+
 === Conference Papers
 - \[C25\] Siyuan Liang, Shanyi Li, Leilei Jin, Yuan Pu, Yushen Zhang, *Zhen Zhuang*, Kai-Yuan Chao, Ulf Schlichtmann, and Tsung-Yi Ho, "BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power\/Ground Plane Synthesis," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
 
@@ -96,6 +99,9 @@ Computer Architecture
 
 - \[J1\] Genggeng Liu, Zhisheng Chen, *Zhen Zhuang*, Wenzhong Guo, and Guolong Chen, "A Unified Algorithm Based on HTS and Self-adapting PSO for the Construction of Octagonal and Rectilinear SMT," Soft Computing, vol. 24, no. 6, pp. 3943-3961, 2020.
 
+== Software
+[https://github.com/Chenghan-Wang/CUTh-Solver CUTh-Solver]: An open-source GPU-accelerated thermal simulator for 3D ICs
+
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug. 2021 - Jul. 2025
 - M.E., College of Mathematics and Computer Science, Fuzhou University (FZU), Sep. 2018 - Mar. 2021
@@ -126,6 +132,11 @@ Computer Architecture
 - Apr. 2018 - Jun. 2018
 
 == Professional Service
+=== Program Committee
+- IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2026.
+- IEEE International Conference on Computer Design (*ICCD*), 2026.
+- International Symposium of Electronics Design Automation (*ISEDA*), 2026.
+
 === Journal Reviewer
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (*TSMC*)
@@ -135,6 +146,7 @@ Computer Architecture
 
 === Conference Reviewer
 - IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2026.
+- International Conference on Field-Programmable Logic and Applications (*FPL*), 2026.
 - ACM International Symposium on Physical Design (*ISPD*), 2024, 2025.
 
 == Teaching Assistant
