@@ -30,11 +30,17 @@ Computer Architecture
 - Chenghan Wang, *Zhen Zhuang*, Shui Jiang, Siyuan Liang, Xiaoman Yang, Kai Zhu, Darong Huang, Luis Costero, Rongmei Chen, Tsung-Wei Huang, David Atienza, and Tsung-Yi Ho, “CUTh-Solver: GPU-Accelerated Sparse Matrix Solver for High-Resolution Thermal Simulation of 3D ICs,” arXiv preprint arXiv:2606.17850.
 
 === Conference Papers
-- \[C28\] *Zhen Zhuang*, Siyuan Liang, Yuan Du, Li Du, and Bei Yu, “Vertical PDN Routing and Embedded IVR Placement Co-Optimization for Advanced Packaging,” accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2026.
+- \[C31\] Jiaxi Jiang, Yuxuan Zhao, *Zhen Zhuang*, Siting Liu, Yuntao Lu, Yuhao Ji, Yifan Shi, Xuanqi Chen, Tsung-Yi Ho, Yibo Lin, and Bei Yu, "MoL-PAM: Joint P\/G TSV Planning and Macro Refinement for Memory-on-Logic 3D ICs via a Benders-Type Decomposition Heuristic," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2027.
 
-- \[C27\] Zixiao Wang, Leilei Jin, *Zhen Zhuang*, Rongmei Chen, and Bei Yu, “CSCO: A Backside-PDN-Aware Clock–Signal Co-Optimization Framework for Improved PPA”, accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2026.
+- \[C30\] Yiqi Huang, Zepeng Li, *Zhen Zhuang*, Kehao Chen, Genggeng Liu, and Tsung-Yi Ho, "A HeteroGNN-Based Hierarchical Co-Optimization Framework for Floorplanning and Routing in Advanced Packaging," accepted by IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), 2027.
 
-- \[C26\] *Zhen Zhuang*, Zheng Yang, Kai-Yuan Chao, and Tsung-Yi Ho, “DiffABCO: Shift-Left Wafer-Scale Integration Design via Differentiable Architecture-Backend Co-Optimization,” accepted by IEEE International Conference on Artificial Intelligence Circuits and Systems (*AICAS*), 2026.
+- \[C29\] Zepeng Li, *Zhen Zhuang*, Kehao Chen, Yiqi Huang, Genggeng Liu, Wen-Hao Liu, and Tsung-Yi Ho, "IR-Drop-Aware Multi-Layer PDN Synthesis with Bump Assignment and Mesh Optimization for Advanced Packaging," accepted by IEEE International Conference on Computer Design (*ICCD*), 2026.
+
+- \[C28\] *Zhen Zhuang*, Siyuan Liang, Yuan Du, Li Du, and Bei Yu, "Vertical PDN Routing and Embedded IVR Placement Co-Optimization for Advanced Packaging," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2026.
+
+- \[C27\] Zixiao Wang, Leilei Jin, *Zhen Zhuang*, Rongmei Chen, and Bei Yu, "CSCO: A Backside-PDN-Aware Clock–Signal Co-Optimization Framework for Improved PPA," accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), 2026.
+
+- \[C26\] *Zhen Zhuang*, Zheng Yang, Kai-Yuan Chao, and Tsung-Yi Ho, "DiffABCO: Shift-Left Wafer-Scale Integration Design via Differentiable Architecture-Backend Co-Optimization," accepted by IEEE International Conference on Artificial Intelligence Circuits and Systems (*AICAS*), 2026.
 
 - \[C25\] Siyuan Liang, Shanyi Li, Leilei Jin, Yuan Pu, Yushen Zhang, *Zhen Zhuang*, Kai-Yuan Chao, Ulf Schlichtmann, and Tsung-Yi Ho, "BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power\/Ground Plane Synthesis," accepted by ACM/IEEE Design Automation Conference (*DAC*), 2026.
 
