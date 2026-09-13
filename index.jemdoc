@@ -99,7 +99,7 @@ Computer Architecture
 
 - \[J8\] Zepeng Li, *Zhen Zhuang*, Genggeng Liu, Wen-Hao Liu, Tsung-Yi Ho, and Ting-Chi Wang, "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes," IEEE Transactions on Computers (*TC*), vol. 75, no. 3, pp. 971-986, 2026.
 
-- \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 3, pp. 47: 1-18, 2026.
+- \[J7\] *Zhen Zhuang*, Weishiun Hung, MD Arafat Kabir, Yarui Peng, and Tsung-Yi Ho, "Adaptive Redistribution Layer Routing for Chiplet-Package Co-Design in 2.5D System," ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 31, no. 3, pp. 47: 1-18, 2026. *(Editor’s Pick)*
 
 - \[J6\] Shanyi Li, *Zhen Zhuang*, Mingyu Liu, Weihua Sheng, Bei Yu, and Tsung-Yi Ho, "HiePlace: Efficient Hierarchical PCB Placement," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 45, no. 1, pp. 428-440, 2026.
 
@@ -171,6 +171,7 @@ Computer Architecture
 - Fall 2021: ENGG2440A Discrete Mathematics for Engineers
 
 == Selected Awards and Honors
+- Editor’s Pick Paper, TODAES, 2026
 - Best Paper Award Nomination, ASPDAC, 2026
 - Third Place Award at ISPD Contest, ISPD, 2019
 - Honorable Mention Award at CAD Contest, ICCAD, 2019
